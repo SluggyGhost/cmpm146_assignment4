@@ -1,6 +1,6 @@
 # Framework for CMPM 146 - Assignment 4
 
-This framework is for assignment 4 of the class CMPM 146 - Game AI. It was developed in Unity version 6000.0.23f, but should also work in other Unity versions. 
+This framework is for assignment 4 of the class CMPM 146 - Game AI. It was developed in Unity version 6000.0.23f, but should also work in other Unity versions.
 
 ## Artwork
 
